@@ -1,18 +1,35 @@
-Hey there! 👋
+# 👋 Welcome!
 
-I've been coding my entire life (_Really, I started when I was 6 years old_) and always shared what I created with the community. Speaking at conferences, writing books, teaching at universities, running a [YouTube Channel](https://www.youtube.com/c/MatiasIacono) and, of course, with code... specially code... specially wanting to help fellow developers that could benefit from it.
+Hi, I’m Matías — I’ve been coding since I was 6 years old (yes, really), and I’ve never stopped.
 
-I love to invest my time behind the keyboard creating tools and frameworks that would help developers to improve their work, to make their lives a little bit easier, or even help to newcomers to gain passion and experience for what we do.
+Over the years, I’ve shared my work with the developer community in many ways: speaking at conferences, writing books, teaching at universities, running a [YouTube channel](https://www.youtube.com/c/MatiasIacono), and — above all — writing code. I build tools, frameworks, and libraries to make developers' lives easier and to help newcomers fall in love with software development.
+
+Whether you're here to explore, contribute, or just get inspired, welcome!
 
 ![Computer Vision for kids during the STEMFest in Tauranga, New Zealand](https://miacono.files.wordpress.com/2022/01/1642716448830.jpg)
 
-Some of my projects:
+---
 
-- [SACP](https://github.com/MatiasIac/SACP) A semantic communication protocol for orchestrating structured, interoperable, and extensible multi-agent LLM systems.
-- [jsGFwk](https://github.com/MatiasIac/jsGFwk) A very light-weight video game framework created in a coding rush (_40 hours for the core_) that evolved to a very mature state. I have created so many videogames with this framework that I am very proud of.
-- [MockAPI](https://github.com/MatiasIac/mockapi) A rapid API mocking for testing and development which I am evolving from time to time. Honestly, I couldn't do some of my work without it. It is free, it is very easy to use and serve its purpose.
-- [FluentSharp](https://github.com/MatiasIac/fluentsharp) A set of tools that extends key areas of C#. In particular, areas that requires unnecessary extra classes. FluentSharp make your coding experience easier. .Net 6 and new versions of C# have evolved to follow this same approach, so, good tool anyways.😄
+## 🚀 Projects I'm Proud Of
 
-#
+Here are a few highlights from my personal toolbox:
 
-If you want to know more about me, you can see my full bio on [LinkedIn](https://www.linkedin.com/in/matiasiacono/).
+### 🔷 [SACP](https://github.com/MatiasIac/SACP)
+A **semantic communication protocol** for orchestrating structured, interoperable, and extensible multi-agent LLM systems. Built to make AI agents work together — clearly, efficiently, and scalably.
+
+### 🎮 [jsGFwk](https://github.com/MatiasIac/jsGFwk)
+A **lightweight HTML5/JavaScript video game framework**, born in a 40-hour coding burst and matured over many years. I’ve built countless games with it, and it continues to evolve. Great for learning or rapid prototyping.
+
+### 🧪 [MockAPI](https://github.com/MatiasIac/mockapi)
+A **Node.js-based API mocker** designed for rapid development and testing — especially useful when your frontend or backend is waiting on an API still under construction. Fast, simple, and essential in my daily workflow.
+
+### 💡 [FluentSharp](https://github.com/MatiasIac/fluentsharp)
+A **fluent-style extension library for C#**, created to simplify repetitive code patterns and reduce boilerplate. Some ideas from this project have made it into modern .NET — but it’s still a helpful tool for cleaner, more expressive code.
+
+---
+
+## 📬 Want to connect?
+
+You can find more about me on [LinkedIn](https://www.linkedin.com/in/matiasiacono/) or check out my work and talks on [YouTube](https://www.youtube.com/c/MatiasIacono).
+
+Thanks for stopping by!
